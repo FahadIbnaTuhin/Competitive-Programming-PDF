@@ -107,6 +107,9 @@ int main ()
     cout << n << endl; /// 3
     for ( int i = 0; i < n; i++ ) cout << a[i] << " "; /// 1 2 3
     cout << endl;
+
+    // Removing the duplicates 
+     a.erase(unique(a.begin(), a.end()), a.end());
  
     a = { 2, 3, 1, 5 };
     cout << max_element( a.begin(), a.end() ) - a.begin() << endl; /// 3
@@ -123,5 +126,6 @@ int main ()
 2. https://leetcode.com/problems/peak-index-in-a-mountain-array/
 3. https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 4. https://www.hackerearth.com/practice/data-structures/trees/binary-search-tree/practice-problems/algorithm/distinct-count/submissions/
+5. https://codeforces.com/problemset/problem/22/A
 
 */
