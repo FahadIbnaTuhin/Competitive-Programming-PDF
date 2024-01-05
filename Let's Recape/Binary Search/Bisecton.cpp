@@ -89,3 +89,41 @@ Practice Problem :
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Topic 02 : Fraction bisection 
+
+//Code 01 :
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+
+    int x ;
+    cin>> x ;
+
+    double l = 0 , r = x ;
+    double eps = 1e-6 ; // dosomik er por koto diff er por ans cacchi seta set kora hoyeche 
+    while ( r - l > eps )
+    {
+        double mid = ( l + r )/2 ;
+        if ( mid * mid <= x )
+        {
+            l = mid ;
+        }
+        else
+        {
+            r = mid ;
+        }
+    }
+
+    cout << fixed << setprecision(5) << l << '\n';
+
+    return 0 ;
+}
+
+Practice Problem :
+1. https://www.geeksforgeeks.org/problems/square-root/1
+2. https://lightoj.com/problem/triangle-partitioning
+   Code : https://shorturl.at/tHJOV
+3. https://lightoj.com/problem/crossed-ladders
+   Code : https://shorturl.at/sKOPW
+4. https://lightoj.com/problem/expanding-rods
+   Code : https://shorturl.at/hvCI5

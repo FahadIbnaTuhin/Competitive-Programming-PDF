@@ -187,6 +187,10 @@ int main()
     return 0;
 }
 
+Practice Problem :
+1. https://leetcode.com/problems/binary-search/
+2. https://leetcode.com/problems/intersection-of-two-arrays/
+3. https://www.spoj.com/problems/BSEARCH1/en/
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Question //
@@ -244,7 +248,6 @@ int main()
 }
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
 
 //Q2 : First and last occurrences of an array 
 #include<bits/stdc++.h> 
@@ -328,6 +331,9 @@ int main()
 
     return 0;
 }
+
+Practice problem :
+1. https://www.geeksforgeeks.org/find-first-and-last-positions-of-an-element-in-a-sorted-array/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -422,6 +428,9 @@ int main()
     return 0;
 }
 
+Practice problem :
+1. https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 //Q4 : Number of time a sorted array is rotated 
@@ -479,6 +488,9 @@ int main()
 
     return 0;
 }
+
+Practice problem :
+1. https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -610,6 +622,9 @@ int main()
     return 0;
 }
 
+Practice problem :
+1. https://leetcode.com/problems/search-in-rotated-sorted-array/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Q6 : Searching an element nearly sorted array 
@@ -669,6 +684,9 @@ int main()
     return 0;
 }
 
+Practice problem :
+1. https://www.geeksforgeeks.org/search-almost-sorted-array/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 //Q7 : Find floor of an element of an sorted array :
@@ -719,6 +737,9 @@ int main()
 
     return 0;
 }
+
+Practice problem :
+1. https://www.geeksforgeeks.org/floor-in-a-sorted-array/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -771,6 +792,9 @@ int main()
 
     return 0;
 }
+
+Practice problem :
+1. https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -889,6 +913,9 @@ int main()
     return 0;
 }
 
+Practice problem :
+1. https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Q11 : Find the index of first '1' in a binary infinite sorted array 
@@ -946,6 +973,9 @@ int main()
 
     return 0;
 }
+
+Practice problem :
+1. https://www.geeksforgeeks.org/find-index-first-1-infinite-sorted-array-0s-1s/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1054,6 +1084,9 @@ int main()
     return 0;
 }
 
+Practice problem :
+1. https://leetcode.com/problems/find-peak-element/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Q14 : Find maximum elementin a bitonic array 
@@ -1096,6 +1129,9 @@ int main()
     cout << "The peak is at index: " << ans << "\n";
     return 0;
 }
+
+Practice problem :
+1. https://www.includehelp.com/icp/maximum-value-in-a-bitonic-array.aspx
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1208,4 +1244,7 @@ int main()
     return 0;
 }
 
+
+Practice problem :
+1. https://www.geeksforgeeks.org/find-element-bitonic-array/
 
