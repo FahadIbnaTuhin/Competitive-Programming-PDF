@@ -371,11 +371,12 @@ Problem statement :
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Some Random practice problem 
+
+ITMU Practice question link : https://codeforces.com/edu/course/2
+
 1. https://codeforces.com/problemset/problem/1462/A
-   Code : https://ideone.com/VYpxER
 2. https://codeforces.com/problemset/problem/381/A
-   Code : https://codeforces.com/contest/381/submission/123934067
 3. https://codeforces.com/contest/1006/problem/C
-   Code : https://codeforces.com/contest/1006/submission/123995651
 4. https://codeforces.com/contest/1251/problem/A
-   Code : https://codeforces.com/contest/1251/submission/123995394
+5. https://cses.fi/problemset/task/1084
+6. https://cses.fi/problemset/task/1090
