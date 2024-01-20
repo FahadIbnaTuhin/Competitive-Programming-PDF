@@ -3,6 +3,8 @@
 1. https://codeforces.com/contest/1846/problem/B
 2. https://codeforces.com/problemset/problem/1850/C
 3. https://codeforces.com/problemset/problem/1862/A
+4. https://codeforces.com/contest/1676/problem/D
+5. https://codeforces.com/contest/1692/problem/C
 
 
 // Number Theory 
@@ -16,10 +18,9 @@
 
 
 // STL
-
 --> Pair 
 1. https://codeforces.com/problemset/problem/1867/A
-2. 
+2. https://toph.co/p/icpc-is-coming-in-hot
 
 // Bitwise 
 1. https://codeforces.com/problemset/problem/1869/A (https://shorturl.at/hFMQ3)
@@ -37,3 +38,10 @@
 10.https://www.spoj.com/problems/TDKPRIME/ ()
 11. https://codeforces.com/problemset/problem/1907/C(https://youtu.be/mfixApfLdZc?feature=shared)
 12. https://codeforces.com/contest/1883/problem/C (https://youtu.be/Wn_0TEf5rOc?feature=shared)
+13. https://codeforces.com/contest/1783/problem/B ( https://youtu.be/IwAPWNjJmAY?feature=shared)
+
+// Sorting & searching 
+1. https://codeforces.com/contest/1676/problem/E
+
+// combinatorics
+1. https://codeforces.com/contest/1922/problem/B ( https://youtu.be/wZc4zHJZv4g?feature=shared ) ( https://youtu.be/JhxVVW2OClo?feature=shared)

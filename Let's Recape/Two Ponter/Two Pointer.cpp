@@ -378,5 +378,7 @@ ITMU Practice question link : https://codeforces.com/edu/course/2
 2. https://codeforces.com/problemset/problem/381/A
 3. https://codeforces.com/contest/1006/problem/C
 4. https://codeforces.com/contest/1251/problem/A
-5. https://cses.fi/problemset/task/1084
-6. https://cses.fi/problemset/task/1090
+5. https://codeforces.com/contest/1669/problem/F
+6. https://cses.fi/problemset/task/1084
+7. https://cses.fi/problemset/task/1090
+8. https://codeforces.com/contest/1921/problem/D
