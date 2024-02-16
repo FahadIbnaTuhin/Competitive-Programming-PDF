@@ -191,6 +191,7 @@ Practice Problem :
 1. https://leetcode.com/problems/binary-search/
 2. https://leetcode.com/problems/intersection-of-two-arrays/
 3. https://www.spoj.com/problems/BSEARCH1/en/
+4. https://codeforces.com/problemset/problem/1850/E
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Question //

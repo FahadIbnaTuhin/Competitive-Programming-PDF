@@ -21,6 +21,17 @@
 --> Pair 
 1. https://codeforces.com/problemset/problem/1867/A
 2. https://toph.co/p/icpc-is-coming-in-hot
+3. https://codeforces.com/problemset/problem/999/C?fbclid=IwAR2JhoDNgpg5ebU2vJkyv-srqgz4CtBgLMlLzKKSjj0R6fZt_NE51qCi8zI
+
+--> 
+1. https://codeforces.com/contest/1917/problem/B ( https://youtu.be/b83MQuZh7Ho?feature=shared)
+
+--> map 
+1. https://codeforces.com/problemset/problem/1800/B
+2. https://codeforces.com/contest/1406/problem/A ( https://youtu.be/bRjzY0yFHmc?feature=shared )
+3. https://atcoder.jp/contests/abc338/tasks/abc338_b
+4. https://codeforces.com/contest/1927/problem/B ( https://youtu.be/FuO6xEegfjA?feature=shared )
+
 
 // Bitwise 
 1. https://codeforces.com/problemset/problem/1869/A (https://shorturl.at/hFMQ3)
@@ -39,9 +50,54 @@
 11. https://codeforces.com/problemset/problem/1907/C(https://youtu.be/mfixApfLdZc?feature=shared)
 12. https://codeforces.com/contest/1883/problem/C (https://youtu.be/Wn_0TEf5rOc?feature=shared)
 13. https://codeforces.com/contest/1783/problem/B ( https://youtu.be/IwAPWNjJmAY?feature=shared)
+14. https://codeforces.com/problemset/problem/1380/A ( https://youtu.be/1WMz8FGUJM4?feature=shared )
+
 
 // Sorting & searching 
 1. https://codeforces.com/contest/1676/problem/E
 
 // combinatorics
 1. https://codeforces.com/contest/1922/problem/B ( https://youtu.be/wZc4zHJZv4g?feature=shared ) ( https://youtu.be/JhxVVW2OClo?feature=shared)
+
+// Greedy 
+1. https://codeforces.com/problemset/problem/1804/B ( https://youtu.be/CPkuzAWPXgs?feature=shared )
+2. https://codeforces.com/problemset/problem/1704/B (https://youtu.be/_NyvSDPInTg?feature=shared)
+3. https://codeforces.com/problemset/problem/1696/B ( https://youtu.be/Po3gj_SkOb4?feature=shared )
+4. https://codeforces.com/contest/1616/problem/B ( https://youtu.be/U74X3SeYu6Q?feature=shared )
+5. https://codeforces.com/problemset/problem/1821/B ( https://youtu.be/5jgErZmuIZI?feature=shared )
+6. https://codeforces.com/contest/1791/problem/E ( https://youtu.be/NBaNclvzizA?feature=shared )
+
+// Math + Greedy 
+1. https://codeforces.com/contest/1471/problem/A
+2. https://codeforces.com/problemset/problem/1726/A ( https://youtu.be/cnRhDcMe3yM?feature=shared )
+3. https://codeforces.com/contest/1409/problem/B ( https://youtu.be/1W1MqfqjfM0?feature=shared )
+
+//Sliding Window 
+1. https://codeforces.com/problemset/problem/1690/D
+
+// Math + Number theory 
+1. https://codeforces.com/problemset/problem/1679/A ( https://youtu.be/yLULFRZRQNM?feature=shared)
+
+// Binary Search 
+1. https://codeforces.com/contest/1927/problem/D ( https://youtu.be/BCl1IHHN-zo?feature=shared )
+2. https://codeforces.com/problemset/problem/1850/E ( https://youtu.be/OogIMb3IPyk?feature=shared )
+
+
+// DFS
+1. https://codeforces.com/problemset/problem/1829/E
+
+// 2P 
+1. https://codeforces.com/contest/1843/problem/A
+
+// Bitwise 
+1. https://codeforces.com/contest/1867/problem/B ( https://youtu.be/EQOzoWvekgc?feature=shared )
+
+// Binary search on answer 
+1. https://codeforces.com/contest/950/problem/B [ BS + Prefix Sum]
+
+
+// Number Theory 
+1. https://codeforces.com/contest/1872/problem/C [GCD] ( https://youtu.be/Wk2MB1pXxDg?feature=shared )
+
+//Geometry 
+1. https://codeforces.com/contest/1928/problem/A ( https://youtu.be/yDx3D20oSgU?feature=shared )

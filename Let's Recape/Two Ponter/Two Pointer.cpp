@@ -382,3 +382,4 @@ ITMU Practice question link : https://codeforces.com/edu/course/2
 6. https://cses.fi/problemset/task/1084
 7. https://cses.fi/problemset/task/1090
 8. https://codeforces.com/contest/1921/problem/D
+9. https://codeforces.com/contest/1843/problem/A
