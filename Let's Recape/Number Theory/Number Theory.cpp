@@ -456,7 +456,63 @@ int main()
     return 0 ;
 }
 
+// Code (  Prime Factorization by Sieve ) (TC -->  log(n) )
+// Range ( 1 - 1e8 )
+#include <bits/stdc++.h>
+using namespace std;
+
+vector<int> a(10000001, -1); // assume all number are prime (-1)
+
+void sieve()
+{
+    int maxN = 10000000;
+    for (int i = 2; i <= maxN; i++)
+    {
+        if (a[i] == -1)
+        {
+            for (int j = i; j <= maxN; j += i)
+            {
+                if (a[j] == -1)
+                {
+                    a[j] = i;
+                }
+            }
+        }
+    }
+}
+
+vector<int> primeFactors(int n)
+{
+    vector<int> factors;
+    while (n != 1)
+    {
+        factors.push_back(a[n]);
+        n /= a[n];
+    }
+    return factors;
+}
+
+int main()
+{
+    sieve();
+
+    int n; cin >> n;
+
+    vector<int> factors = primeFactors(n);
+
+    for (int it : factors)
+    {
+        cout << it << " ";
+    }
+    cout << '\n';
+
+    return 0;
+}
+
+
 // Code ( Smallest Prime Factor by Sieve ) (TC -->  log(n) )
+// Range ( 1 - 1e8 )
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -539,6 +595,86 @@ int main()
 
     return 0 ;
 }
+
+
+// Code :  NOD & SOD  by using sieve  ( TC -->  log(n) )
+// Range : ( 1 - 1e8 )
+
+#include <bits/stdc++.h>
+using namespace std;
+
+vector<int> a(10000001, -1); // assume all numbers are prime (-1)
+
+void sieve()
+{
+    int maxN = 10000000;
+    for (int i = 2; i <= maxN; i++)
+    {
+        if (a[i] == -1)
+        {
+            for (int j = i; j <= maxN; j += i)
+            {
+                if (a[j] == -1)
+                {
+                    a[j] = i;
+                }
+            }
+        }
+    }
+}
+
+vector<int> primeFactors(int n)
+{
+    vector<int> factors;
+    while (n != 1)
+    {
+        factors.push_back(a[n]);
+        n /= a[n];
+    }
+    return factors;
+}
+
+int main()
+{
+    sieve();
+
+    int n; cin >> n;
+
+    map<int, int> mp;
+    vector<int> factors = primeFactors(n);
+
+    for (int i = 0; i < factors.size(); i++)
+    {
+        mp[factors[i]]++;
+    }
+
+    int SOD = 1 , NOD = 1 ;
+    for (auto it : mp)
+    {
+         NOD = NOD * ( it.second + 1 );
+
+        int p = it.first; // prime factor
+        int a = it.second; // power of the prime factor
+
+        // Calculate the sum of divisors for prime factor p^a
+        int sum = 0;
+        int power = 1;
+        for (int i = 0; i <= a; i++)
+        {
+            sum = sum +  power;
+            power = power * p;
+        }
+
+        SOD = SOD * sum;
+    }
+
+    cout << "Sum of devisor " << SOD << '\n';
+    cout << "Number of devisor " << NOD << '\n';
+
+    return 0;
+}
+
+
 
 //Practice Problem :
 1. https://codeforces.com/problemset/problem/1925/B
