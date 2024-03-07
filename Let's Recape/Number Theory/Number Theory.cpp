@@ -264,6 +264,8 @@ int main()
     return 0;
 }
 
+1. https://codeforces.com/problemset/problem/230/B
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Topic 06 : Sieve of Eratosthenes 
@@ -438,7 +440,7 @@ int main()
         while ( n%i == 0 )
         {
             prime_factor.push_back(i);
-            n = n/i;
+            n = n/i; // i diye jotogola vag jay ogola bade bakigola count hobe next t++ e 
         }
     }
     if ( n > 1 )//last prime number
@@ -453,6 +455,49 @@ int main()
 
     return 0 ;
 }
+
+// Code ( Smallest Prime Factor by Sieve ) (TC -->  log(n) )
+#include <bits/stdc++.h>
+using namespace std;
+
+int a[10000001]; 
+
+void sieve()
+{
+    int maxN = 10000000;
+    for (int i = 1; i <= maxN; i++)
+    {
+        a[i] = -1;
+    }
+
+    for (int i = 2; i <= maxN; i++)
+    {
+        if (a[i] == -1)
+        {
+            for (int j = i; j <= maxN; j = j + i)
+            {
+                if (a[j] == -1)
+                {
+                    a[j] = i;
+                }
+            }
+        }
+    }
+}
+
+int main()
+{
+    sieve();
+
+    int n; cin >> n;
+
+    cout << "Smallest prime factor of " << n << " is: " << a[n] << '\n' ;
+
+    return 0;
+}
+
+
+1. https://www.hackerrank.com/challenges/identify-smith-numbers/problem?isFullScreen=true
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -494,6 +539,11 @@ int main()
 
     return 0 ;
 }
+
+//Practice Problem :
+1. https://codeforces.com/problemset/problem/1925/B
+2. https://codeforces.com/contest/762/problem/A
+3. https://codeforces.com/problemset/problem/1203/C
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -627,6 +677,8 @@ int main()
     return 0;
 }
 
+1. https://www.hackerrank.com/challenges/sherlock-and-gcd/problem?isFullScreen=true
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 // Topic 12 : Euler's Totient function / Phi function ( for find the co-prime )
@@ -673,7 +725,7 @@ int main()
     return 0;
 }
 
-
+1. https://www.hackerrank.com/challenges/primitive-problem/problem?isFullScreen=true
 
 
 

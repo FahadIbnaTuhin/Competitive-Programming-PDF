@@ -32,9 +32,12 @@
 3. https://atcoder.jp/contests/abc338/tasks/abc338_b
 4. https://codeforces.com/contest/1927/problem/B ( https://youtu.be/FuO6xEegfjA?feature=shared )
 
+--> deque
+1. https://codeforces.com/contest/1932/problem/C ( https://youtu.be/0RCx_ZTmDHg?feature=shared )
 
-// Bitwise 
+// Bit
 1. https://codeforces.com/problemset/problem/1869/A (https://shorturl.at/hFMQ3)
+2. https://www.codechef.com/problems/BINPARITY?tab=statement
 
 //Random 
 1. https://codeforces.com/problemset/problem/1856/B
@@ -66,14 +69,14 @@
 4. https://codeforces.com/contest/1616/problem/B ( https://youtu.be/U74X3SeYu6Q?feature=shared )
 5. https://codeforces.com/problemset/problem/1821/B ( https://youtu.be/5jgErZmuIZI?feature=shared )
 6. https://codeforces.com/contest/1791/problem/E ( https://youtu.be/NBaNclvzizA?feature=shared )
-
-// Math + Greedy 
-1. https://codeforces.com/contest/1471/problem/A
-2. https://codeforces.com/problemset/problem/1726/A ( https://youtu.be/cnRhDcMe3yM?feature=shared )
-3. https://codeforces.com/contest/1409/problem/B ( https://youtu.be/1W1MqfqjfM0?feature=shared )
+7. https://codeforces.com/contest/1471/problem/A
+8. https://codeforces.com/problemset/problem/1726/A ( https://youtu.be/cnRhDcMe3yM?feature=shared )
+9. https://codeforces.com/contest/1409/problem/B ( https://youtu.be/1W1MqfqjfM0?feature=shared )
+10. https://codeforces.com/problemset/problem/1922/C ( https://youtu.be/ZmBxCOE1kVQ?feature=shared) 
 
 //Sliding Window 
 1. https://codeforces.com/problemset/problem/1690/D
+2. https://codeforces.com/contest/808/problem/B
 
 // Math + Number theory 
 1. https://codeforces.com/problemset/problem/1679/A ( https://youtu.be/yLULFRZRQNM?feature=shared)
@@ -81,6 +84,7 @@
 // Binary Search 
 1. https://codeforces.com/contest/1927/problem/D ( https://youtu.be/BCl1IHHN-zo?feature=shared )
 2. https://codeforces.com/problemset/problem/1850/E ( https://youtu.be/OogIMb3IPyk?feature=shared )
+3. https://codeforces.com/contest/1928/problem/B ( https://youtu.be/UCVqiNBpt8Y?feature=shared )
 
 
 // DFS
@@ -98,6 +102,27 @@
 
 // Number Theory 
 1. https://codeforces.com/contest/1872/problem/C [GCD] ( https://youtu.be/Wk2MB1pXxDg?feature=shared )
+2. https://codeforces.com/problemset/problem/1925/B [GCD , DEVISOR ] ( Editorial hint 2 )
+3. https://codeforces.com/problemset/problem/1931/D [Modular Arithmetic] (https://youtu.be/_mhJCUhMqk8?feature=shared)
+4. https://codeforces.com/contest/1933/problem/B 
+5. https://codeforces.com/contest/1933/problem/C ( https://youtu.be/wBSTMEWiOMU?feature=shared )
+6. https://codeforces.com/contest/1933/problem/D ( https://youtu.be/e6u0VuR4VwE?feature=shared )
+7. https://codeforces.com/contest/1618/problem/C (https://youtu.be/oNN2PrA6cLY?feature=shared)
+8. https://codeforces.com/problemset/problem/230/B
+9. https://codeforces.com/contest/762/problem/A
+8. https://codeforces.com/problemset/problem/1203/C
 
 //Geometry 
 1. https://codeforces.com/contest/1928/problem/A ( https://youtu.be/yDx3D20oSgU?feature=shared )
+
+//Pre computation
+1. https://codeforces.com/contest/1926/problem/C
+2. https://lightoj.com/problem/sum-of-factorials
+
+// Constructive Algo 
+1. https://codeforces.com/contest/1811/problem/C [Greedy] ( https://youtu.be/Fki2dkIuNmo?feature=shared )
+2. https://codeforces.com/contest/1772/problem/C [Greedy] ( https://youtu.be/qYK-7TI5hmU?feature=shared )
+
+// Sliding window 
+1. https://codeforces.com/problemset/problem/1690/D
+
